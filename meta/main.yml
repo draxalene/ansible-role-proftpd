@@ -1,7 +1,7 @@
 galaxy_info:
   role_name: proftpd
-  author: hopla-cloud
-  description: Hopla.cloud role for ansible to deploy ProFTPd
+  author: draxalene
+  description: draxalene role for ansible to deploy ProFTPd (by hopla.cloud)
   company: hopla.cloud
 
   license: license (GPL-2.0-or-later, MIT, etc)
@@ -13,7 +13,11 @@ galaxy_info:
       versions:
         - bionic
         - xenial
+        - jammy
   galaxy_tags:
     - ftp
+    - linux
+    - draxalene
+    hopla.cloud
 
 dependencies: []
