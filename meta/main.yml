@@ -18,6 +18,6 @@ galaxy_info:
     - ftp
     - linux
     - draxalene
-    hopla.cloud
+    - hopla.cloud
 
 dependencies: []
